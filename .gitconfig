@@ -1,0 +1,16 @@
+[user]
+    name = Brian Weston
+    email = brianw@webriculture.com
+[alias]
+    st = status
+    ci = commit
+    co = checkout
+    br = branch
+    log-pretty = log --oneline --decorate --graph
+    alias = config --get-regexp ^alias\\.
+    cia = commit -am
+    cimn = commit --amend --no-edit
+    ciuf = commit -m 'Update formatting'
+[core]
+    autocrlf = true
+    editor = vim
