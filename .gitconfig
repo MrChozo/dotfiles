@@ -14,5 +14,6 @@
 [core]
     autocrlf = true
     editor = vim
+    eol = lf
 [merge]
-	tool = smerge
+    tool = smerge
