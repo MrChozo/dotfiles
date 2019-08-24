@@ -1,4 +1,4 @@
-# Keymaps EasyAVR
+# EasyAVR Keymaps
 
 JSON keyboard keymaps, viewable via the [Easy AVR USB Keyboard Firmware and Keymapper][avr].
 
