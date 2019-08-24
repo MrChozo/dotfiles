@@ -14,22 +14,22 @@ and ring fingers. This was inspired by HHK, but it has been pretty rough switchi
 
 ### Descriptions
 
-* __Layer 0 / Default__ - Colemak, with use-the-heel-of-your-palm-to-mush-down Fn1 keys on
-the right, another Fn1 on the left, and Fn4 access to the GUI/macro layer on the left as well
+* __Layer 0 / Default__ - Colemak, with use-the-outside-edge-of-your-palm-to-mush-down Fn1 keys on
+the right, another Fn1 on the left, and Fn4 access to the GUI/macro layer on the left as well.
 
 * __Layer 1__ - Colemak, Movement-based, with arrow keys and the Home/End/Page block. Also moves the
-F-function keys down to the number row, and so far, has kept the QFR music keys. Has access to qwerty
-layer, lockable and intended to be used as a toggle.
+F-function keys down to the number row, and, so far, has kept the QFR music keys. Has access to qwerty
+layer, which is lockable and intended to be used as a toggle.
 
-* __Layer 2__ - Qwerty, mostly matches the default labeled keymap, but has the left-hand positioning
-of the Fn keys, but with access to its own version of the movement key layer on Layer 3.
+* __Layer 2__ - Qwerty, mostly matches the default and labeled keymap, but has the same left-hand positioning
+of the Fn keys as Layer 0. Also has access to its own version of the movement key layer on Layer 3.
 
-* __Layer 3__ - Qwerty, essentially a copy of Layer 1, access back to the default layer, which is
+* __Layer 3__ - Qwerty, essentially a copy of Layer 1. Has access back to the default layer, which is
 lockable and intended as a toggle back to Colemak-land.
 
 * __Layer 4__ - GUI/macro layer. Mostly blank, but provides easier access to the Windows key combinations
-that I commonly use. Inspired by wanting to make it easier to switch between virtual desktops with one
-hand, this is a landing ground for weird key combinations I have to use all of the time. No actual macros
+that I commonly use. Inspired by my wanting to make it easier to switch between virtual desktops with one
+hand. This is a landing ground for weird key combinations I have to use all of the time. No actual macros
 programmed to it yet, but I should experiment with those soon.
 
 ### Layer Access
