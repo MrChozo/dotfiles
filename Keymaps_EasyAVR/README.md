@@ -52,6 +52,58 @@ programmed to it yet, but I should experiment with those soon.
 I'm really only keeping them around for history's sake, and I will likely remove them in a future commit.
 They are really just landmark snapshots of my QFRs' keymaps progression.
 
+## Folded EasyAVR JSON File
+
+The 20 rows of brackets represent each of the keymap's layers, 0-9. Most changes will be made within them. I'm planning on modifying my copy of EasyAVR so that it no longer minifies its JSON for smarter, smaller commits.
+
+```json
+{
+  "unique_id": "QFRFLAKEV2_002",
+  "layout_mod": null,
+  "keymap": [
+    [ ...
+    ],
+    [ ...
+    ],
+    [ ...
+    ],
+    [ ...
+    ],
+    [ ...
+    ],
+    [ ...
+    ],
+    [ ...
+    ],
+    [ ...
+    ],
+    [ ...
+    ],
+    [ ...
+    ]
+  ],
+  "macros": [ ...
+  ],
+  "led_modes": [ ...
+  ],
+  "led_funcs": [ ...
+  ],
+  "led_layers": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "usb_opts": [
+    true,
+    true,
+    true,
+    true
+  ]
+}
+```
+
 
 [avr]: https://geekhack.org/index.php?topic=51252.0
 
