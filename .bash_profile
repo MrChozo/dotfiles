@@ -1,3 +1,6 @@
+# Use vi mode for entering commands
+set -o vi
+
 # Ctrl + F, move one word including separator forward, Ctrl + b, backward
 bind '"\C-f":vi-fWord'
 bind '"\C-b":vi-bWord'
