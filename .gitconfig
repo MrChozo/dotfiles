@@ -6,11 +6,12 @@
     ci = commit
     co = checkout
     br = branch
-    log-pretty = log --oneline --decorate --graph
     alias = config --get-regexp ^alias\\.
     cia = commit -am
+    ciam = commit --amend
     cimn = commit --amend --no-edit
     ciuf = commit -m 'Update formatting'
+    log-pretty = log --oneline --decorate --graph
 [core]
     autocrlf = true
     editor = vim
