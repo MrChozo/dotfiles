@@ -1,0 +1,173 @@
+[16:25:05] [Render thread/INFO]: Setting user: MrChozo
+[16:25:07] [Render thread/INFO]: Backend library: LWJGL version 3.2.2 build 10
+[16:25:10] [Render thread/INFO]: Narrator library for x86 successfully loaded
+[16:25:10] [Render thread/INFO]: Reloading ResourceManager: Default
+[16:25:25] [Render thread/INFO]: OpenAL initialized.
+[16:25:25] [Render thread/INFO]: Sound engine started
+[16:25:25] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[16:25:25] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[16:25:25] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[16:25:25] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[16:25:25] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[16:25:25] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[16:25:25] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[16:25:26] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[16:25:26] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[16:25:26] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[16:26:19] [Render thread/INFO]: Connecting to 172.16.30.5, 25565
+[16:26:25] [Render thread/INFO]: Loaded 233 advancements
+[16:26:43] [Render thread/INFO]: [CHAT] <MrChozo> Figured out how to transfer my options to the modded instance
+[16:26:52] [Render thread/INFO]: [CHAT] <jackryan_007> nice
+[16:27:16] [Render thread/INFO]: [CHAT] <MrChozo> Jenn was asking if she could play on this server
+[16:27:21] [Render thread/INFO]: [CHAT] <chris12349> of course
+[16:27:28] [Render thread/INFO]: [CHAT] <jackryan_007> totally!
+[16:27:34] [Render thread/INFO]: [CHAT] <MrChozo> If we can figure out her creds, of course
+[16:27:40] [Render thread/INFO]: [CHAT] <MrChozo> Schweet
+[16:28:25] [Render thread/INFO]: [CHAT] <chris12349> as long as her user name isnt 'griefer84' orsomething
+[16:29:07] [Render thread/INFO]: [CHAT] <MrChozo> lol, nah, it'll be Fearfalls
+[16:29:10] [Render thread/INFO]: [CHAT] <chris12349> a skelly dropped a badly damaged bow. How do you make a anvil?
+[16:29:48] [Render thread/WARN]: Received passengers for unknown entity
+[16:30:31] [Render thread/INFO]: [CHAT] <MrChozo> Uhhh
+[16:30:40] [Render thread/INFO]: [CHAT] <jackryan_007> vpn'd?
+[16:31:12] [Render thread/INFO]: [CHAT] <MrChozo> VPN'd? Jenn's PC?
+[16:31:23] [Render thread/INFO]: [CHAT] <jackryan_007> didn't know what the "uhhh" was for
+[16:31:28] [Render thread/INFO]: [CHAT] <MrChozo> Yeah, both hers and mine have IPSec
+[16:31:32] [Render thread/INFO]: [CHAT] <jackryan_007> K
+[16:31:45] [Render thread/INFO]: [CHAT] <MrChozo> Nah, the uhh was for Chris's anvil question
+[16:31:49] [Render thread/INFO]: [CHAT] <chris12349> checkout screenshot in slack
+[16:31:51] [Render thread/INFO]: [CHAT] <MrChozo> I'd have to Google it
+[16:31:51] [Render thread/INFO]: [CHAT] <chris12349> pretty
+[16:32:35] [Render thread/INFO]: [CHAT] <MrChozo> Can you post the shaders you use in Slack?
+[16:32:54] [Render thread/INFO]: [CHAT] <chris12349> I'll see if I still have the files so you don't have to go hunting
+[16:33:08] [Render thread/INFO]: [CHAT] <MrChozo> Just got a GTX 1660 in Jenn's PC as an upgrade
+[16:33:35] [Render thread/INFO]: [CHAT] <MrChozo> Better card than mine. I need a better monitor for this card to really shine
+[16:33:43] [Render thread/INFO]: [CHAT] <MrChozo> But that's gonna be a while
+[16:35:02] [Render thread/INFO]: [CHAT] <chris12349> uploaded
+[16:36:01] [Render thread/INFO]: [CHAT] <chris12349> you install optifine, then when you load your game, choose that instead of 1.15.2, if that all works you copy the sylders shader zip (leave compressed) into the shaders folder.
+[16:37:42] [Render thread/INFO]: [CHAT] MrChozo was shot by Skeleton
+[16:37:46] [Render thread/WARN]: Received passengers for unknown entity
+[16:37:46] [Render thread/INFO]: [CHAT] <jackryan_007> DOH!
+[16:37:55] [Render thread/INFO]: [CHAT] Respawn point set
+[16:39:35] [Render thread/INFO]: [CHAT] <MrChozo> Was paying too much attention to F3
+[16:39:41] [Render thread/INFO]: [CHAT] <chris12349> :)
+[16:40:03] [Render thread/INFO]: [CHAT] <MrChozo> It dips to 60 when I get into heated situations
+[16:40:35] [Render thread/INFO]: [CHAT] <chris12349> im at 59fps probably the shader
+[16:41:26] [Render thread/INFO]: [CHAT] <MrChozo> I like it better locked at 60 with Vsync on
+[16:41:37] [Render thread/INFO]: [CHAT] <MrChozo> Which is what I had before
+[16:42:45] [Render thread/INFO]: Loaded 233 advancements
+[16:43:02] [Render thread/INFO]: Loaded 247 advancements
+[16:43:27] [Render thread/INFO]: Loaded 247 advancements
+[16:43:34] [Render thread/INFO]: [CHAT] Respawn point set
+[16:44:53] [Render thread/INFO]: [CHAT] <MrChozo> Biggest mod I'd run is something that sorts the chests for yuo
+[16:45:00] [Render thread/INFO]: [CHAT] <MrChozo> *yo
+[16:45:08] [Render thread/INFO]: [CHAT] <MrChozo> ************you
+[16:45:08] [Render thread/INFO]: [CHAT] <chris12349> thats cool
+[16:45:26] [Render thread/INFO]: [CHAT] <chris12349> :)
+[16:47:39] [Render thread/INFO]: [CHAT] <jackryan_007> cool
+[16:47:43] [Render thread/INFO]: [CHAT] <jackryan_007> Gonna bail
+[16:47:47] [Render thread/INFO]: [CHAT] <jackryan_007> Stronk work
+[16:47:48] [Render thread/INFO]: [CHAT] <MrChozo> stronk
+[16:47:56] [Render thread/INFO]: [CHAT] <MrChozo> #stronkwork
+[16:48:04] [Render thread/INFO]: [CHAT] <jackryan_007> PPP FTW
+[16:48:11] [Render thread/INFO]: [CHAT] jackryan_007 left the game
+[16:48:12] [Render thread/INFO]: [CHAT] <MrChozo> Team "building" exercise
+[16:48:42] [Render thread/INFO]: [CHAT] <MrChozo> Team "building exercise"
+[16:50:47] [Render thread/INFO]: Loaded 249 advancements
+[17:00:52] [Render thread/INFO]: Loaded 262 advancements
+[17:01:23] [Render thread/INFO]: [CHAT] <MrChozo> A mod to have all of the recipes unlocked right away would be good too
+[17:01:56] [Render thread/INFO]: [CHAT] <chris12349> yeah I don't mind that mechanic
+[17:02:13] [Render thread/INFO]: [CHAT] <MrChozo> The having to discover them?
+[17:02:25] [Render thread/INFO]: [CHAT] <MrChozo> It's not inherently bad, I suppose
+[17:02:41] [Render thread/INFO]: [CHAT] <chris12349> don't you auto discover it when you get the components for the first time?
+[17:04:14] [Render thread/INFO]: Loaded 264 advancements
+[17:05:03] [Render thread/INFO]: [CHAT] <MrChozo> Yeah, you do. It's true. The only downside is wanting to know what the recipe is for something you know exists, but don't have yet.
+[17:05:53] [Render thread/INFO]: [CHAT] <MrChozo> CROSSBOW?
+[17:06:04] [Render thread/INFO]: [CHAT] <MrChozo> Um, yes please
+[17:06:12] [Render thread/INFO]: [CHAT] <chris12349> you found raiders?
+[17:06:25] [Render thread/INFO]: [CHAT] <MrChozo> Nah, I found the recipe in the recipe book
+[17:06:37] [Render thread/INFO]: [CHAT] <MrChozo> I didn't know that existed
+[17:10:49] [Render thread/INFO]: Loaded 265 advancements
+[17:11:11] [Render thread/INFO]: [CHAT] <chris12349> sleep?
+[17:11:24] [Render thread/INFO]: [CHAT] <MrChozo> Sure
+[17:11:42] [Render thread/INFO]: [CHAT] <MrChozo> Made the crossbow and some arrows
+[17:11:54] [Render thread/INFO]: [CHAT] <chris12349> cooool
+[17:12:26] [Render thread/INFO]: [CHAT] <MrChozo> Sorry moo cow, you're target practice
+[17:12:38] [Render thread/INFO]: [CHAT] MrChozo has made the advancement [Ol' Betsy]
+[17:12:38] [Render thread/INFO]: Loaded 265 advancements
+[17:12:38] [Render thread/INFO]: [CHAT] MrChozo has made the advancement [Take Aim]
+[17:12:38] [Render thread/INFO]: Loaded 265 advancements
+[17:12:43] [Render thread/INFO]: [CHAT] <chris12349> ha
+[17:13:05] [Render thread/INFO]: Loaded 266 advancements
+[17:14:10] [Render thread/INFO]: [CHAT] <MrChozo> Weird that they call them "advancements" and not achievements
+[17:14:30] [Render thread/INFO]: [CHAT] <chris12349> maybe from pre-microsoft ownership
+[17:14:41] [Render thread/INFO]: [CHAT] <chris12349> THATS OUR WORD
+[17:14:58] [Render thread/INFO]: [CHAT] /help [<command>]
+[17:14:58] [Render thread/INFO]: [CHAT] /list [uuids]
+[17:14:58] [Render thread/INFO]: [CHAT] /me <action>
+[17:14:58] [Render thread/INFO]: [CHAT] /msg <targets> <message>
+[17:14:58] [Render thread/INFO]: [CHAT] /teammsg <message>
+[17:14:58] [Render thread/INFO]: [CHAT] /tell -> msg
+[17:14:58] [Render thread/INFO]: [CHAT] /tm -> teammsg
+[17:14:58] [Render thread/INFO]: [CHAT] /trigger <objective> [add|set]
+[17:14:58] [Render thread/INFO]: [CHAT] /w -> msg
+[17:15:06] [Render thread/INFO]: [CHAT] Unknown command
+[17:15:06] [Render thread/INFO]: [CHAT] /chattweaks<--[HERE]
+[17:15:25] [Render thread/INFO]: [CHAT] <chris12349> bread isn't keeping me full very long anymore
+[17:15:43] [Render thread/INFO]: [CHAT] <MrChozo> Huh. Maybe Steve likes a low-carb diet?
+[17:17:07] [Render thread/INFO]: [CHAT] <MrChozo> Check it out. knife fight
+[17:17:15] [Render thread/INFO]: [CHAT] <chris12349> wow
+[17:17:39] [Render thread/INFO]: [CHAT] <chris12349> going to make a cow pen
+[17:17:47] [Render thread/INFO]: [CHAT] <chris12349> steve want meat
+[17:17:47] [Render thread/INFO]: [CHAT] <MrChozo> Did it show the sword switching to the other hand?
+[17:17:50] [Render thread/INFO]: [CHAT] <chris12349> yup
+[17:18:08] [Render thread/INFO]: [CHAT] <MrChozo> Yeah, cow murder is much better when you have a supply chain
+[17:18:27] [Render thread/INFO]: [CHAT] <chris12349> need hide for books
+[17:19:29] [Render thread/INFO]: [CHAT] <MrChozo> Left two leather in the chest right in front of your door
+[17:19:33] [Render thread/INFO]: [CHAT] <MrChozo> It ain't much
+[17:19:45] [Render thread/INFO]: [CHAT] <MrChozo> Sick digs
+[17:21:50] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.salmon.ambient
+[17:21:53] [Render thread/INFO]: Loaded 266 advancements
+[17:22:19] [Render thread/INFO]: [CHAT] <chris12349> a creeper was in the tower...
+[17:22:25] [Render thread/INFO]: [CHAT] <MrChozo> woah
+[17:22:33] [Render thread/INFO]: [CHAT] <MrChozo> did it essplode?
+[17:22:49] [Render thread/INFO]: [CHAT] <chris12349> yup
+[17:22:55] [Render thread/INFO]: [CHAT] <MrChozo> weak
+[17:25:10] [Render thread/INFO]: [CHAT] <MrChozo> sleep?
+[17:25:16] [Render thread/INFO]: [CHAT] <chris12349> yup
+[17:25:50] [Render thread/INFO]: Loaded 266 advancements
+[17:25:58] [Render thread/INFO]: Loaded 266 advancements
+[17:29:35] [Render thread/INFO]: [CHAT] chris12349 has made the advancement [The Parrots and the Bats]
+[17:29:51] [Render thread/INFO]: [CHAT] <MrChozo> What
+[17:30:01] [Render thread/INFO]: [CHAT] <chris12349> birds and the bees I think
+[17:30:07] [Render thread/INFO]: [CHAT] <MrChozo> What'd you breed? Cows?
+[17:30:14] [Render thread/INFO]: [CHAT] <MrChozo> Ahh
+[17:30:17] [Render thread/INFO]: [CHAT] <chris12349> yup
+[17:33:41] [Render thread/INFO]: [CHAT] <MrChozo> How do you break down a door faster than punching it a bunch?>
+[17:33:51] [Render thread/INFO]: [CHAT] <chris12349> axe?
+[17:35:34] [Render thread/INFO]: [CHAT] <chris12349> taking the dogs out
+[17:35:59] [Render thread/INFO]: [CHAT] chris12349 left the game
+[17:40:57] [Render thread/INFO]: Villager axw['Villager'/127, l='MpServer', x=152.97, y=58.40, z=72.66] died, message: 'Villager died'
+[17:40:59] [Render thread/INFO]: Villager axw['Villager'/158, l='MpServer', x=154.17, y=57.00, z=72.55] died, message: 'Villager died'
+[17:41:02] [Render thread/INFO]: Villager axw['Nitwit'/81, l='MpServer', x=153.30, y=57.78, z=72.69] died, message: 'Nitwit died'
+[17:49:46] [Render thread/INFO]: [CHAT] chris12349 joined the game
+[17:58:31] [Render thread/INFO]: Loaded 266 advancements
+[18:01:32] [Render thread/INFO]: [CHAT] <chris12349> theres so much new stuff in this game
+[18:02:12] [Render thread/INFO]: [CHAT] <MrChozo> Oh yeah?
+[18:02:19] [Render thread/INFO]: [CHAT] <MrChozo> I haven't hit a ton of it yet
+[18:02:30] [Render thread/INFO]: [CHAT] <MrChozo> I'm just sorta playing slow
+[18:02:38] [Render thread/INFO]: [CHAT] <chris12349> when we get good weapons we need to attack a raider tower. If you kill their leader they assault the town
+[18:03:26] [Render thread/INFO]: [CHAT] <MrChozo> Ha, nice. Yeah, we''ll have to
+[18:03:34] [Render thread/INFO]: [CHAT] <MrChozo> I need to get to gold armor
+[18:03:44] [Render thread/INFO]: [CHAT] <MrChozo> I've got boots, but that's it
+[18:06:19] [Render thread/INFO]: Loaded 266 advancements
+[18:06:53] [Render thread/INFO]: [CHAT] <chris12349> I'm going to call it for today. I'll probably be on tomorrow morning
+[18:06:58] [Render thread/INFO]: [CHAT] <MrChozo> Sweet
+[18:07:08] [Render thread/INFO]: [CHAT] <MrChozo> Might still be on then
+[18:07:11] [Render thread/INFO]: [CHAT] <chris12349> ha
+[18:07:14] [Render thread/INFO]: [CHAT] <MrChozo> lol
+[18:07:23] [Render thread/INFO]: [CHAT] <MrChozo> See ya
+[18:07:24] [Render thread/INFO]: [CHAT] <chris12349> my legs didn't work well when I got up
+[18:07:31] [Render thread/INFO]: [CHAT] <chris12349> see ya
+[18:07:33] [Render thread/INFO]: [CHAT] chris12349 left the game
+[18:11:02] [Render thread/INFO]: Loaded 269 advancements
+[18:22:33] [Render thread/INFO]: Stopping!
