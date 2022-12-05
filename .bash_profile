@@ -16,6 +16,9 @@ alias pamlist="php artisan make:listener"
 alias pammail="php artisan make:mail"
 alias pammigr="php artisan make:migration"
 alias pammode="php artisan make:model"
+alias scrcpys="'/c/Program Files/scrcpy/start-scrcpy-sd.sh'"
+alias scrcpyh="'/c/Program Files/scrcpy/start-scrcpy-hd.sh'"
+alias scrcpyhelp="'/c/Program Files/scrcpy/scrcpy-help.sh'"
 
 
 export EDITOR="/usr/bin/vim"
