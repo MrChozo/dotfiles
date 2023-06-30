@@ -1,0 +1,14 @@
+---
+# Dotbot installation file. Check README at https://github.com/anishathalye/dotbot
+# for more information on each command. They run in order from top to bottom.
+
+- clean: ['~']
+
+- link:
+    ~/.vim: vim
+
+- create:
+    - ~/.vim/tmp
+
+- shell:
+  - [git submodule update --init --recursive, Installing submodules]

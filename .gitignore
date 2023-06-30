@@ -1,10 +1,13 @@
 /*
-!.keymaps-easyavr
-!.bash_profile
-!.conemu
-!.gitconfig
-!.gitignore
-!.ideavimrc
-!.vim
+!bash
 !dotbot
+!git
+!.gitignore
+!.gitmodules
+!.ideavimrc
+!install
+!install.conf.yaml
+!keymaps-easyavr
+!README.md
+!vim
 
