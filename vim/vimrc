@@ -69,6 +69,11 @@ set shiftwidth=2
 set backupdir=~/.vim/tmp//,.
 set directory=~/.vim/tmp//,.
 
+if has('persistent_undo')         "check if your vim version supports
+  set undodir=$HOME/.vim/tmp      "directory where the undo files will be stored
+  set undofile                    "turn on the feature
+endif
+
 " Plugin manager, junegunn/vim-plug
 call plug#begin('~/.vim/plugged')
 
