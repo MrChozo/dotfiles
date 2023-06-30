@@ -63,3 +63,8 @@ set number
 
 " Tab size
 set shiftwidth=2
+
+" Put swap and backup files into a specific directory instead of
+" at the location of the file you're editing.
+set backupdir=~/.vim/tmp//,.
+set directory=~/.vim/tmp//,.
