@@ -5,6 +5,7 @@
 - clean: ['~']
 
 - link:
+    ~/.ideavimrc: jetbrains/.ideavimrc
     ~/.vim: vim
 
 - create:
