@@ -68,3 +68,10 @@ set shiftwidth=2
 " at the location of the file you're editing.
 set backupdir=~/.vim/tmp//,.
 set directory=~/.vim/tmp//,.
+
+" Plugin manager, junegunn/vim-plug
+call plug#begin('~/.vim/plugged')
+
+Plug 'tpope/vim-surround'
+
+call plug#end()
