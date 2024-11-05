@@ -52,7 +52,9 @@ if has('syntax') && has('eval')
 endif
 
 " ----------------------------------------------------------
+" ----------------------------------------------------------
 " Begin Brian vimrc
+" ----------------------------------------------------------
 " ----------------------------------------------------------
 
 " Set the color scheme
@@ -80,3 +82,6 @@ call plug#begin('~/.vim/plugged')
 Plug 'tpope/vim-surround'
 
 call plug#end()
+
+" Insert today's date
+map <leader>D :put =strftime('%a %Y-%m-%d %H:%M:%S%z')
