@@ -1,10 +1,6 @@
 # Use vi mode for entering commands
 set -o vi
 
-# Ctrl + F, move one word including separator forward, Ctrl + b, backward
-bind '"\C-f":vi-fWord'
-bind '"\C-b":vi-bWord'
-
 # TODO Move these into .bash_aliases
 alias lsd="ls -al --group-directories-first"
 
@@ -41,10 +37,3 @@ fi
 
 export EDITOR="/usr/bin/vim"
 
-function cd
-{
-    if [[ ".lnk" = "${1:(-4)}" && -f "$1" ]] ;
-        then builtin cd "$( follow "$1" )" ;
-    else builtin cd "$1" ;
-    fi
-}
