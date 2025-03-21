@@ -5,7 +5,9 @@
 - clean: ['~']
 
 - link:
+    ~/.bash_aliases: bash/.bash_aliases
     ~/.bash_profile: bash/.bash_profile
+    #~/.config/nvim: nvim
     ~/.ideavimrc: jetbrains/.ideavimrc
     ~/.vim: vim
 
